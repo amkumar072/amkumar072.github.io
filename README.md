@@ -31,7 +31,7 @@ I am a highly skilled and results-driven **Senior Full Stack Developer** with **
 
 ## 💡 About Me
 
-With a solid background in both **front-end** and **back-end** development, I am well-versed in creating end-to-end solutions for a wide range of applications. I have extensive experience working with modern frameworks, cloud platforms, and DevOps practices, enabling me to deliver projects efficiently and with high quality. My experience spans **JavaScript** frameworks like **Angular**, backend technologies like **Java**, **Go (Golang)**, and **Rust**, along with cloud services such as **AWS** and **Firebase**.
+With a solid background in both **front-end** and **back-end** development, I am well-versed in creating end-to-end solutions for a wide range of applications. I have extensive experience working with modern frameworks, cloud platforms, and DevOps practices, enabling me to deliver projects efficiently and with high quality. My experience spans **JavaScript** frameworks like **Angular**, backend technologies like **Java**, and **Rust**, along with cloud services such as **AWS** and **Firebase**.
 
 ### Core Areas of Expertise:
 
@@ -51,7 +51,6 @@ With a solid background in both **front-end** and **back-end** development, I am
 ### **Back-End Development**
 
 - **Java** (Spring Boot, Hibernate)
-- **Go** (Golang),
 - **Rust**,
 - **Node.js**
 - **RESTful APIs**, **GraphQL**,
