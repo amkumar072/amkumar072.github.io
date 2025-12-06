@@ -101,6 +101,7 @@ With a solid background in both **front-end** and **back-end** development, I am
 - **Compliance & testing**: Introduced automated integration tests and performance benchmarks; decreased post-release defects by **60%** and achieved **100% compliance** with Maersk security standards
 - **Team leadership**: Acted as **interim module owner** managing **6+ developers**; coordinated release planning, sprint prioritization, and cross-functional alignment with UI, QA, DevOps, and Product teams
 - **Infrastructure**: Architected containerized deployments (**Docker**, **Kubernetes**, **Azure Pipelines**); standardized observability with **Grafana** and implemented automated alerting, reducing incident response time by **35%**
+- **Award**: Received **STAR AWARD** for leadership in Java upgrade and .NET-to-Java migration, completing ahead of schedule within limited resources
 
 ### **Mphasis (An HP Company) | Delivery Module Lead** (Jan 2022 - May 2023)
 **E-Commerce Payment Processing Platform**
@@ -116,7 +117,6 @@ With a solid background in both **front-end** and **back-end** development, I am
 - **Legacy system migration**: Co-led migration of enterprise applications from **Java 8 to Java 11** and **Spring Boot 1.x to 2.x** across **40+ microservices**; eliminated deprecated APIs and reduced technical debt
 - **Performance gains**: Refactored critical paths; achieved **30% reduction in memory footprint** and **25% improvement in CPU utilization** under load
 - **CI/CD pipeline**: Designed and implemented automated build/test/deploy pipelines (**Jenkins**, **SonarQube**); reduced release time from **monthly to bi-weekly** and cut post-deployment defects by **50%**
-- **Award**: Received **STAR AWARD** for leadership in Java upgrade and .NET-to-Java migration, completing ahead of schedule within limited resources
 
 #### **Key Projects**:
 - **Speedy (KPI Dashboard)**: Built **Spring Boot + Angular** platform integrating Jira, Jenkins, Sonar, UCD; reduced KPI reporting time from manual (days) to **real-time (seconds)**
