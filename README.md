@@ -92,41 +92,40 @@ With a solid background in both **front-end** and **back-end** development, I am
 ---
 
 ## 🚀 Professional Experience 
-
-### **A.P. Moller - Maersk | Senior Software Engineer** (May 2023 - Present)
+### **A.P. Moller - Maersk | Senior Software Engineer** (May 2023 – Present)
 **Billing Module – Warehouse Management System (MWMS)**
 
-- **Modernized legacy architecture**: Migrated .NET APIs to **Java Spring Boot**, eliminating **3 intermediate service layers** to simplify architecture and reduce operational complexity
-- **Performance optimization**: Optimized SQL queries and database indexing; reduced billing transaction processing time from **2.5s to 1.5s (40% improvement)** and increased throughput to **500+ transactions/minute**
-- **Compliance & testing**: Introduced automated integration tests and performance benchmarks; decreased post-release defects by **60%** and achieved **100% compliance** with Maersk security standards
-- **Team leadership**: Acted as **interim module owner** managing **6+ developers**; coordinated release planning, sprint prioritization, and cross-functional alignment with UI, QA, DevOps, and Product teams
-- **Infrastructure**: Architected containerized deployments (**Docker**, **Kubernetes**, **Azure Pipelines**); standardized observability with **Grafana** and implemented automated alerting, reducing incident response time by **35%**
+- **AI Agent Orchestration**: Architected **multi-agent MCP system** leveraging **Azure OpenAI** to automate SQL stored procedure migration to **Spring Boot microservices**, orchestrating Parser, Generator, Validator, and Feedback Agent to reduce manual conversion time
+- **Modernized legacy architecture**: Migrated .NET APIs to **Java Spring Boot**, eliminating intermediate service layers to simplify architecture and reduce operational complexity
+- **Performance optimization**: Optimized **SQL queries** and database indexing; reduced billing transaction processing time from 2.5s to 1.5s (**40% improvement**) and increased throughput to **500+ transactions/minute**
+- **Compliance & testing**: Introduced **automated integration tests** and performance benchmarks; decreased post-release defects by **60%** and achieved **98% compliance** with Maersk security standards
+- **Team leadership**: Acted as interim module owner and **technical lead managing 6 developers**; established engineering standards, coordinated release planning, sprint prioritization, and cross-functional alignment
+- **Technical Strategy**: Defined technical roadmap for billing module modernization; evaluated migration approaches and selected **Java Spring Boot stack**; established architecture patterns and coding standards
+- **Infrastructure**: Architected containerized deployments (**Docker, Kubernetes, Azure Pipelines**); standardized observability with **Grafana** and implemented automated alerting, reducing incident response time by **35%**
 - **Award**: Received **STAR AWARD** for leadership in Java upgrade and .NET-to-Java migration, completing ahead of schedule within limited resources
 
-### **Mphasis (An HP Company) | Delivery Module Lead** (Jan 2022 - May 2023)
+### **Mphasis | Delivery Module Lead** (Jan 2022 – May 2023)
 **E-Commerce Payment Processing Platform**
 
-- **Feature delivery**: Led delivery of **payment gateway integration service**; processed **50+ million transactions monthly** with **99.9% uptime SLA**
-- **Architecture**: Designed microservices using **Golang** and **Java**, decoupling payment logic from e-commerce core; implemented async processing via **RabbitMQ** and **AWS SQS** to reduce transaction latency by **45%**
-- **Cross-functional leadership**: Coordinated teams of **8–10** across product, QA, and DevOps; managed sprint planning, stakeholder communication, and release cycles (**biweekly deployments**)
-- **Payment Service**: Designed REST APIs for payment processing; implemented **idempotency and retry logic**; achieved **99.95% reliability**
+- **Feature delivery**: Led delivery of payment gateway integration service; processed **1+ million transactions monthly** with **99.9% uptime SLA**
+- **Architecture**: Designed microservices using **Golang and Java**, decoupling payment logic from e-commerce core; implemented async processing via **RabbitMQ** and **AWS SQS** to reduce transaction latency by **45%**
+- **Cross-functional leadership**: Coordinated teams of **6+** across product, QA, and DevOps; managed sprint planning, stakeholder communication, and release cycles (**biweekly deployments**)
+- **Payment Service**: Designed **REST APIs** for payment processing; implemented idempotency and retry logic; achieved **99.95% reliability**
 
-### **Wipro Limited | Senior Project Engineer** (May 2018 - Dec 2021)
+### **Wipro Limited | Senior Project Engineer** (May 2018 – Dec 2021)
 **Tech Stack Modernization & Core Platform Development**
 
 - **Legacy system migration**: Co-led migration of enterprise applications from **Java 8 to Java 11** and **Spring Boot 1.x to 2.x** across **10+ microservices**; eliminated deprecated APIs and reduced technical debt
-- **Performance gains**: Refactored critical paths; achieved **30% reduction in memory footprint** and **25% improvement in CPU utilization** under load
-- **CI/CD pipeline**: Designed and implemented automated build/test/deploy pipelines (**Jenkins**, **SonarQube**); reduced release time from **monthly to bi-weekly** and cut post-deployment defects by **50%**
-
-#### **Key Projects**:
-- **Speedy (KPI Dashboard)**: Built **Spring Boot + Angular** platform integrating Jira, Jenkins, Sonar, UCD; reduced KPI reporting time from manual (days) to **real-time (seconds)**
+- **Performance gains**: Refactored critical paths; achieved **30% reduction** in memory footprint and **25% improvement** in CPU utilization under load
+- **CI/CD pipeline**: Designed and implemented automated build/test/deploy pipelines (**Jenkins, SonarQube**); reduced release time from monthly to **bi-weekly** and cut post-deployment defects by **50%**
 - **Code quality**: Established testing standards; maintained **85%+ code coverage** and **zero critical security findings** in production
+- **Speedy (KPI Dashboard)**: Built **Spring Boot + Angular** platform integrating Jira, Jenkins, Sonar, UCD; reduced KPI reporting time from manual (days) to **real-time (seconds)**
 
-### **Wipro Limited | Project Engineer** (May 2015 - May 2018)
+### **Wipro Limited | Project Engineer** (May 2015 – May 2018)
 **Backend Development & Quality Assurance**
 
 - **Feature development**: Built core backend services for enterprise applications; maintained code quality standards and led code reviews
-- **Testing**: Authored comprehensive unit test suites (**JUnit**, **Mockito**); achieved consistent **80%+ code coverage** and reduced regression defects by **40%**
+- **Testing**: Authored comprehensive unit test suites (**JUnit, Mockito**); achieved consistent **80%+ code coverage** and reduced regression defects by **40%**
 - **Mentorship**: Onboarded junior developers; established best practices for testing and documentation
 
 ---
