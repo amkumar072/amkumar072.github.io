@@ -109,19 +109,18 @@ With a solid background in both **front-end** and **back-end** development, I am
 - **Feature delivery**: Led delivery of **payment gateway integration service**; processed **50+ million transactions monthly** with **99.9% uptime SLA**
 - **Architecture**: Designed microservices using **Golang** and **Java**, decoupling payment logic from e-commerce core; implemented async processing via **RabbitMQ** and **AWS SQS** to reduce transaction latency by **45%**
 - **Cross-functional leadership**: Coordinated teams of **8–10** across product, QA, and DevOps; managed sprint planning, stakeholder communication, and release cycles (**biweekly deployments**)
-- **Code quality**: Established testing standards; maintained **85%+ code coverage** and **zero critical security findings** in production
+- **Payment Service**: Designed REST APIs for payment processing; implemented **idempotency and retry logic**; achieved **99.95% reliability**
 
 ### **Wipro Limited | Senior Project Engineer** (May 2018 - Dec 2021)
 **Tech Stack Modernization & Core Platform Development**
 
-- **Legacy system migration**: Co-led migration of enterprise applications from **Java 8 to Java 11** and **Spring Boot 1.x to 2.x** across **40+ microservices**; eliminated deprecated APIs and reduced technical debt
+- **Legacy system migration**: Co-led migration of enterprise applications from **Java 8 to Java 11** and **Spring Boot 1.x to 2.x** across **10+ microservices**; eliminated deprecated APIs and reduced technical debt
 - **Performance gains**: Refactored critical paths; achieved **30% reduction in memory footprint** and **25% improvement in CPU utilization** under load
 - **CI/CD pipeline**: Designed and implemented automated build/test/deploy pipelines (**Jenkins**, **SonarQube**); reduced release time from **monthly to bi-weekly** and cut post-deployment defects by **50%**
 
 #### **Key Projects**:
 - **Speedy (KPI Dashboard)**: Built **Spring Boot + Angular** platform integrating Jira, Jenkins, Sonar, UCD; reduced KPI reporting time from manual (days) to **real-time (seconds)**
-- **CloudBank Payment Service**: Designed REST APIs for payment processing; implemented **idempotency and retry logic**; achieved **99.95% reliability**
-
+- **Code quality**: Established testing standards; maintained **85%+ code coverage** and **zero critical security findings** in production
 
 ### **Wipro Limited | Project Engineer** (May 2015 - May 2018)
 **Backend Development & Quality Assurance**
