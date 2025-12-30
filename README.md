@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👨‍💻 Madhankumar Anandan | Senior Software Engineer & Delivery Lead
+# 👨‍💻 Madhankumar Anandan | Senior/AI Engineer 
 
  <a target="_blank" align="center">
   <img align="right"  alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Welcome to my GitHub profile!
 
-I am a **Senior Software Engineer and Delivery Lead** with **10+ years of experience** designing and deploying scalable microservices and cloud-native platforms across logistics, e-commerce, and enterprise domains. I led multiple modernization programs on Java, Spring Boot, and cloud stacks, cutting API latency by 40%, increasing throughput by 3.3x, and improving release frequency from monthly to bi-weekly through CI/CD, while acting as a technical authority for complex migrations and system upgrades. Recent work focuses on **Generative AI**, including **Prompt Engineering**, **RAG**, and **AI Agents**, integrating LLMs into production systems to automate workflows and enhance developer and business productivity.
+I am a **Senior/AI Engineer** with **10+ years of experience** designing and deploying scalable microservices and cloud-native platforms across logistics, e-commerce, and enterprise domains. I led multiple modernization programs on Java, Spring Boot, Python, and cloud native, cutting API latency by 40%, increasing throughput by 3.3x, and improving release frequency from monthly to bi-weekly through CI/CD, while acting as a technical authority for complex migrations and system upgrades. Recent work focuses on **Generative AI**, including **Prompt Engineering**, **RAG**, and **AI Agents**, integrating LLMs into production systems to automate workflows and enhance developer and business productivity.
 
 ---
 
@@ -39,7 +39,7 @@ With a solid background in both **front-end** and **back-end** development, I am
 
 ### **Backend Development**
 - **Java** (Spring Boot, Hibernate, Microservices)
-- **Golang**, **Rust**, **Node.js**
+- **Python**, **Golang**, **Rust**, **Node.js**
 - **RESTful APIs**, **GraphQL**, **Microservices Architecture**
 - **Message Queues**: AWS SNS/SQS, RabbitMQ, Kafka
 - **Real-Time Applications**, **Event-Driven Architecture**
